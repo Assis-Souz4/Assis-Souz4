@@ -1,7 +1,7 @@
 <img alt="imagem-de-capa" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"><!--imagem cabeçalho-->
 <br><br><br>
 ## 👋🏾Olá, seja bem vindo(a)! Eu sou Assis:
-> Meu nome é Francisco de Assis da Silva Souza, 
+> Me chamo Francisco de Assis da Silva Souza, 
 > um programador e entusiasta de TI que mora em Fortaleza - Ce,
 > 36 anos, comecei a desbravar o mundo da tecnologia em 2020
 > em meio as duvidas e incertezas que o mundo vivia por conta 
