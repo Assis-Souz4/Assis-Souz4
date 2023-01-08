@@ -1,5 +1,5 @@
 <img alt="imagem-de-capa" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"><!--imagem cabeçalho-->
-<br><br><br>
+<br><br>
 ## 👋🏾Olá, seja bem vindo(a)! Eu sou Assis:
 > Me chamo Francisco de Assis da Silva Souza, 
 > um programador e entusiasta de TI que mora em Fortaleza - Ce,
