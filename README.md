@@ -26,7 +26,7 @@
   <a href="https://github.com/Assis-Souz4">
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Assis-Souz4&show_icons=true&theme=transparent"/><!--teste-->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assis-Souz4)](https://github.com/Assis-Souz4/Assis-Souz4"><!--teste-->
+    <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=assis-souz4)](https://github.com/Assis-Souz4/Assis-Souz4)><!--teste-->
     <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assis-souz4&theme=github_dark">
     <img src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy">
 </div>
