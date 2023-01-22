@@ -32,32 +32,10 @@
                                                   
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=assis-souz4)](https://github.com/Assis-Souz4"/> -->
     
-    // Dependencies
-var GitHubStats = require("github-stats");
-
-// Create the GitHubStats instance
-var stats = new GitHubStats({
-
-    // Enable light theme for calendar
-    theme: "LIGHT"
-
-    // Provide the repository and the username
-  , repo: "hubber-memory-game"
-  , user: "alysonla"
-
-    // Visualize repository, user and calendar stats
-  , s_repo: true
-  , s_user: true
-  , cal: true
-
-    // A token could help to visualize private stats
-  , token: "an optional token"
-});
-
-// Stringify everything
-stats.toString(function (err, output, warns) {
-    console.log(err || output);
-});
+     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&preferLogin=true">
+    <img  alt="brunobritodev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/assis-souza4?cardType=octocat&theme=github-dark&preferLogin=true" />
+  </a>
+  
 </div>
   <br><br>
   
