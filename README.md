@@ -31,10 +31,8 @@
     <img width="100%" height="120em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=dark_dimmed)](https://github.com/Assis-Souz4">
                                                   
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=assis-souz4)](https://github.com/Assis-Souz4"/> -->
-   
-
 </div>
-  <br><br><br>
+  <br><br>
   
 ## 💻Tecnologias que uso com frequência:
   <div style="display: inline_block"><br>
