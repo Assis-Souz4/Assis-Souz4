@@ -35,6 +35,7 @@
      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&preferLogin=true">
     <img  alt="brunobritodev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/assis-souza4?cardType=octocat&theme=github-dark&preferLogin=true" />
   </a>
+    <img (src="https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?cardType=octocat&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card")>
   
 </div>
   <br><br>
