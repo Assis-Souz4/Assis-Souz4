@@ -31,7 +31,7 @@
     <img width="100%" height="120em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=dark_dimmed)](https://github.com/Assis-Souz4">
                                                   
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=assis-souz4)](https://github.com/Assis-Souz4"/> -->
-    <img height="180em" src ="https://leetcode-stats-six.vercel.app/?username=assis-souz4&theme=dark)](https://github.com/Assis-Souz4/Assis-Souz4"/>
+    <img src ="https://leetcode-stats-six.vercel.app/?username=assis-souz4&theme=dark)](https://github.com/Assis-Souz4/Assis-Souz4"/>
 </div>
   <br><br>
   
