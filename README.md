@@ -30,7 +30,8 @@
     <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assis-souz4&theme=github_dark">
     <img src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy">
                                                    <!-- ############areá de teste############# -->
-    <img height="180em" (src="https://raw.githubusercontent.com/username=Assis-Souz4/github-stats/master/generated/overview.svg#gh-light-mode-only")/>
+    <img ![]src="https://raw.githubusercontent.com/username=Assis-Souz4/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
+
 </div>
   <br><br><br>
   
