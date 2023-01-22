@@ -31,6 +31,12 @@
     <img width="100%" height="120em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=dark_dimmed)](https://github.com/Assis-Souz4">
                                                   
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=assis-souz4)](https://github.com/Assis-Souz4"/> -->
+    💬 Languages:
+JavaScript               5 hrs 26 mins       ███████████████░░░░░░░░░░   61.97%
+PHP                      1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.07%
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.3%
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32%
+XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
 
 </div>
   <br><br><br>
