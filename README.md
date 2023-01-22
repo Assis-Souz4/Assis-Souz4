@@ -29,9 +29,7 @@
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assis-souz4)](https://github.com/Assis-Souz4/Assis-Souz4">-->
     <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assis-souz4&theme=github_dark">
     <img width="100%" height="120em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=dark_dimmed)](https://github.com/Assis-Souz4">
-                                                  
-<img height="180em" (src="https://leetcard.jacoblin.cool/jacoblincool?ext=activity")/>
-      
+                                                    
 </div>
   <br><br>
   
