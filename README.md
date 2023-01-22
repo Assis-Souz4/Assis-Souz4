@@ -30,13 +30,8 @@
     <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assis-souz4&theme=github_dark">
     <img width="100%" height="120em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=dark_dimmed)](https://github.com/Assis-Souz4">
                                                   
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=assis-souz4)](https://github.com/Assis-Souz4"/> -->
-    
-     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&preferLogin=true">
-    <img  alt="brunobritodev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/assis-souza4?cardType=octocat&theme=github-dark&preferLogin=true" />
-  </a>
-    <img (src="https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?cardType=octocat&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card")>
-  
+<img height="180em" ![](src="https://leetcard.jacoblin.cool/jacoblincool?ext=activity")/>
+      
 </div>
   <br><br>
   
