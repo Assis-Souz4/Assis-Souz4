@@ -3,8 +3,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=Olá,seja+bem+vindo(a)!;+Eu+sou+Assis)](https://git.io/typing-svg)
 <!-- ## 👋🏾Olá, seja bem vindo(a)! Eu sou Assis: -->
 > Me chamo Francisco de Assis da Silva Souza, 
-> um programador e entusiasta de TI que mora em Fortaleza - Ce,
-> 36 anos, comecei a desbravar o mundo da tecnologia em 2020
+> moro em Fortaleza - Ce,
+> comecei a desbravar o mundo da tecnologia em 2020
 > em meio as duvidas e incertezas que o mundo vivia por conta 
 > do surto de covid-19, minha única certeza era o quanto eu 
 > estava adorando codificar e desde então venho me capacitando e
