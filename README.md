@@ -1,6 +1,7 @@
 <img alt="imagem-de-capa" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"><!--imagem cabeçalho-->
 <br><br>
-## 👋🏾Olá, seja bem vindo(a)! Eu sou Assis:
+## <img src="https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=Olá, seja bem vindo(a)!;+Eu sou Assis"/>
+<!-- ## 👋🏾Olá, seja bem vindo(a)! Eu sou Assis: -->
 > Me chamo Francisco de Assis da Silva Souza, 
 > um programador e entusiasta de TI que mora em Fortaleza - Ce,
 > 36 anos, comecei a desbravar o mundo da tecnologia em 2020
@@ -9,8 +10,9 @@
 > estava adorando codificar e desde então venho me capacitando e
 > aperfeiçoando para tornar esse sonho de viver de programação real.
 > Amo desafios e coisas novas/estranhas. atualmente focado Html | Css | JavaScript.
-> <br>
+> <br><br>
 ## <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966"><!--mario--> Como me encontar:
+<br><br>
 
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:assissouza-dev@hotmail.com)
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://assis-souz4.github.io/)
@@ -22,15 +24,22 @@
 
 ## <img height="50em" src="https://camo.githubusercontent.com/c4cc8fb0f0c06f0057640b46aab87e483f54e913fdbf52c9ee690c8204c52b44/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966"> Estatísticas e atividades do Github: 
 <br><br>
-<div align="center">
+<div align="center" style="display: inline-block">
   <a href="https://github.com/Assis-Souz4">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Assis-Souz4&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assis-souz4&theme=github_dark">
-    <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assis-souz4&theme=github_dark">
-    <img width="100%" height="120em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=dark_dimmed)](https://github.com/Assis-Souz4">
-    
-                                                    
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Assis-Souz4&show_icons=true&theme=react"/> -->
+   <p align="center">
+  <img width="625em" src="https://metrics.lecoq.io/assis-souz4" />
+</p>                 
+  <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assis-souz4&theme=react">    
+    <img height="288em" src="https://streak-stats.demolab.com?user=assis-souz4&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%">
+    <img height="210em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assis-souz4&theme=github_dark">
+    <img width="100%" height="120em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=nord"/>
+    <!-- <img width="100%" height="120em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=dark_dimmed)](https://github.com/Assis-Souz4"> -->
+    <!--  -->
+    <!-- <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=assis-souz4&theme=react-dark&hide_border=true" />
+  </a> -->
+                              
 </div>
   <br><br>
   
@@ -43,3 +52,11 @@
   <br><br>
   
    ![Snake animation](https://github.com/Assis-Souz4/Assis-Souz4/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{assis-souza}/count.svg" /></p> 
+</div>
+<div align="center">
+    <h4 align="center">Obrigado por visitar meu repositorio &nbsp;❤️&nbsp;!</h4>
+</div>
