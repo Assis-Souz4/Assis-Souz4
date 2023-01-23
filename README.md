@@ -1,6 +1,6 @@
 <img alt="imagem-de-capa" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"><!--imagem cabeçalho-->
 <br><br>
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Filipino+IT+Specialist.;Cyber+Security+Analyst;Cloud+Data+Engineer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=Olá,seja bem vindo(a)!;+Eu sou Assis)](https://git.io/typing-svg)
 <!-- ## 👋🏾Olá, seja bem vindo(a)! Eu sou Assis: -->
 > Me chamo Francisco de Assis da Silva Souza, 
 > um programador e entusiasta de TI que mora em Fortaleza - Ce,
