@@ -58,5 +58,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{assis-souza}/count.svg" /></p> 
 </div>
 <div align="center">
-    <h4 align="center">Obrigado por visitar meu repositório &nbsp;❤️&nbsp;!</h4>
+    <h4 align="center">Obrigado por visitar o meu repositório &nbsp;❤️&nbsp;!</h4>
 </div>
