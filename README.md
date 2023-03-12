@@ -28,7 +28,7 @@
   <a href="https://github.com/Assis-Souz4">
     
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Assis-Souz4&show_icons=true&theme=react"/>
-   <p align="left">
+   <p align="center">
 <!--   <img width="625em" src="https://metrics.lecoq.io/assis-souz4" /> -->
 </p>                 
   <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assis-souz4&theme=react">    
