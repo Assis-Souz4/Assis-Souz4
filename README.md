@@ -37,8 +37,8 @@
     <img width="100%" height="120em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=nord"/>
     <!-- <img width="100%" height="120em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=dark_dimmed)](https://github.com/Assis-Souz4"> -->
     <!--  -->
-    <!-- <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=assis-souz4&theme=react-dark&hide_border=true" />
-  </a> -->
+    <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=assis-souz4&theme=react-dark&hide_border=true" />
+  </a>
                               
 </div>
   <br><br>
