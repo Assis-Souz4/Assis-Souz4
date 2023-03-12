@@ -27,7 +27,7 @@
 <div align="center" style="display: inline-block">
   <a href="https://github.com/Assis-Souz4">
     
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Assis-Souz4&show_icons=true&theme=react"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Assis-Souz4&show_icons=true&theme=react"/>
    <p align="center">
   <img width="625em" src="https://metrics.lecoq.io/assis-souz4" />
 </p>                 
@@ -37,8 +37,8 @@
     <img width="100%" height="120em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=nord"/>
     <!-- <img width="100%" height="120em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=dark_dimmed)](https://github.com/Assis-Souz4"> -->
     <!--  -->
-    <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=assis-souz4&theme=react-dark&hide_border=true" />
-  </a>
+     <!-- <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=assis-souz4&theme=react-dark&hide_border=true" />
+  </a> -->
                               
 </div>
   <br><br>
