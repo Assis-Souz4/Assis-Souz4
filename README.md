@@ -32,7 +32,7 @@
 <!--   <img width="625em" src="https://metrics.lecoq.io/assis-souz4" /> -->
 </p>                 
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assis-souz4&theme=react">    
-   <img height="288em" src="https://streak-stats.demolab.com?user=assis-souz4&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%">
+   <img height="288em" src="https://streak-stats.demolab.com?user=assis-souz4&_border=true&theme=dark&hide_border=true&theme=react" style="width: 100%">
     <img height="210em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assis-souz4&theme=github_dark">
     <img width="100%" height="240em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=nord"/>
     <!-- <img width="100%" height="120em" src="https://github-profile-trophy.vercel.app/?username=assis-souz4&theme=dark_dimmed)](https://github.com/Assis-Souz4"> -->
