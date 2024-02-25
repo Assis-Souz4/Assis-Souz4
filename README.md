@@ -1,4 +1,5 @@
-<img alt="imagem-de-capa" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"><!--imagem cabeçalho-->
+<!--<img alt="imagem-de-capa" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"><!--imagem cabeçalho-->-->
+<img alt="imagem-de-capa" width="100%" src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif">
 <br><br>
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=Olá,seja+bem+vindo(a)!;+Eu+sou+Assis)](https://git.io/typing-svg)
 <!-- ## 👋🏾Olá, seja bem vindo(a)! Eu sou Assis: -->
@@ -9,7 +10,7 @@
 > do surto de covid-19, minha única certeza era o quanto eu 
 > estava adorando codificar e desde então venho me capacitando e
 > aperfeiçoando para tornar esse sonho de viver de programação real.
-> Amo desafios e coisas novas/estranhas. atualmente focado Html | Css | JavaScript.
+> Amo desafios e coisas novas/estranhas. atualmente focado Html | Css | JavaScript | Dart | Flutter.
 > <br><br>
 ## <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966"><!--mario--> Como me encontar:
 <br><br>
