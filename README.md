@@ -1,5 +1,5 @@
-<!--<img alt="imagem-de-capa" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"><!--imagem cabeçalho-->-->
-<img alt="imagem-de-capa" width="100%" src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif">
+<img alt="imagem-de-capa" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"><!--imagem cabeçalho-->
+<!--<img alt="imagem-de-capa" width="100%" src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif">-->
 <br><br>
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=Olá,seja+bem+vindo(a)!;+Eu+sou+Assis)](https://git.io/typing-svg)
 <!-- ## 👋🏾Olá, seja bem vindo(a)! Eu sou Assis: -->
