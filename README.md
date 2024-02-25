@@ -12,7 +12,7 @@
 > aperfeiçoando para tornar esse sonho de viver de programação real.
 > Amo desafios e coisas novas/estranhas. atualmente focado Html | Css | JavaScript | Dart | Flutter.
 > <br><br>
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif">Como me encontar:
+## <img width='50%' src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif">Como me encontar:
 <br><br>
 
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:assissouza-dev@hotmail.com)
